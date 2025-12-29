@@ -1,5 +1,19 @@
 ## Hi there, I'm Ana Paula Figueroa Tardaguila 👋
-# I'm a **Software Engineer Student** at Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM), passionate about web development, and building innovative solutions. 
+I'm a **Software Engineer Student** at Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM), passionate about web development, data science and building innovative solutions. 
+
+## 🔧 Technical Skills
+- **Programming:** Python, C++, JavaScript, Swift, Matlab  
+- **Web Development:** React, HTML, CSS, TypeScript  
+- **Databases:** SQL, MongoDB, Firebase  
+- **Tools & Platforms:** Git, GitHub, Linux, REST APIs  
+
+## 🌟 Soft Skills
+- Teamwork & Collaboration  
+- Problem Solving & Critical Thinking  
+- Adaptability & Continuous Learning  
+
+## 🌱 Currently Learning
+- **Applied Data Science** (University of Michigan, Coursera)  
 <!--
 **anapfigueroat/anapfigueroat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
