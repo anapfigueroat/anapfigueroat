@@ -1,5 +1,5 @@
 ## Hi there, I'm Ana Paula Figueroa Tardaguila 👋
-I'm a **Software Engineer Student** at Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM), passionate about web development, and building innovative solutions. 
+# I'm a **Software Engineer Student** at Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM), passionate about web development, and building innovative solutions. 
 <!--
 **anapfigueroat/anapfigueroat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
