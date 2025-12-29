@@ -13,7 +13,11 @@ I'm a **Software Engineer Student** at Instituto Tecnológico y de Estudios Supe
 - Adaptability & Continuous Learning  
 
 ## 🌱 Currently Learning
-- **Applied Data Science** (University of Michigan, Coursera)  
+- **Applied Data Science** (University of Michigan, Coursera)
+
+## 📫 Connect with me
+- LinkedIn: [Ana Paula](https://www.linkedin.com/in/ana-paula-figueroa/)  
+- Email: anapfigueroat@gmail.com 
 <!--
 **anapfigueroat/anapfigueroat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
